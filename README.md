@@ -15,15 +15,15 @@ _& main repo for oxy_
 
 This declares a variable with the:
 
-name of 'TestVar',
+- name of 'TestVar',
 
-the ID of 'oxy.example.var.test',
+- the ID of 'oxy.example.var.test',
 
-the description of 'Test variable with 0 value',
+- the description of 'Test variable with 0 value',
 
-the type of Integer,
+- the type of Integer,
 
-the value of 0
+- the value of 0
 
 > [!NOTE]
 > Inside the square brackets, you only need Name and ID
